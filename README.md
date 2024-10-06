@@ -2,7 +2,7 @@
 ![aligned](https://github.com/user-attachments/assets/6a884b40-4db3-448a-ac58-e62e6a61e4d0)
 
 # Aligned Testnet tutorial
-Kalian bisa mengerjakan tutorial ini di vps yang kalian pakai untuk run node
+Kalian bisa mengerjakan tutorial ini di vps yang kalian pakai untuk run node atau juga gitpod/codespace github.
 
 - Install Rust
 ```bash
